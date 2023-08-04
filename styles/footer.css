@@ -1,0 +1,18 @@
+footer{
+    margin-top: 150px;
+    text-align: center;
+    color: #4b4646;
+    font-size: 1rem;
+}
+
+.contenedor-partners{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor-partners img{
+    height: 50px;
+    margin: 25px;
+}
